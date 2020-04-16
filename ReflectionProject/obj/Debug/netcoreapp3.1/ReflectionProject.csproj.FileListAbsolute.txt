@@ -1,0 +1,13 @@
+C:\Users\bbdnet2229\source\repos\ReflectionProject\obj\Debug\netcoreapp3.1\ReflectionProject.csproj.CoreCompileInputs.cache
+C:\Users\bbdnet2229\source\repos\ReflectionProject\obj\Debug\netcoreapp3.1\ReflectionProject.AssemblyInfoInputs.cache
+C:\Users\bbdnet2229\source\repos\ReflectionProject\obj\Debug\netcoreapp3.1\ReflectionProject.AssemblyInfo.cs
+C:\Users\bbdnet2229\source\repos\ReflectionProject\bin\Debug\netcoreapp3.1\ReflectionProject.exe
+C:\Users\bbdnet2229\source\repos\ReflectionProject\bin\Debug\netcoreapp3.1\ReflectionProject.deps.json
+C:\Users\bbdnet2229\source\repos\ReflectionProject\bin\Debug\netcoreapp3.1\ReflectionProject.runtimeconfig.json
+C:\Users\bbdnet2229\source\repos\ReflectionProject\bin\Debug\netcoreapp3.1\ReflectionProject.runtimeconfig.dev.json
+C:\Users\bbdnet2229\source\repos\ReflectionProject\bin\Debug\netcoreapp3.1\ReflectionProject.dll
+C:\Users\bbdnet2229\source\repos\ReflectionProject\bin\Debug\netcoreapp3.1\ReflectionProject.pdb
+C:\Users\bbdnet2229\source\repos\ReflectionProject\obj\Debug\netcoreapp3.1\ReflectionProject.dll
+C:\Users\bbdnet2229\source\repos\ReflectionProject\obj\Debug\netcoreapp3.1\ReflectionProject.pdb
+C:\Users\bbdnet2229\source\repos\ReflectionProject\obj\Debug\netcoreapp3.1\ReflectionProject.genruntimeconfig.cache
+C:\Users\bbdnet2229\source\repos\ReflectionProject\obj\Debug\netcoreapp3.1\ReflectionProject.csprojAssemblyReference.cache
