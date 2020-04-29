@@ -39,60 +39,6 @@ namespace ApiXml.Model
 			};
 		}
 
-		//	private string name;
-
-		//	public string Name
-		//	{
-		//		get { return name; }
-		//		set 
-		//		{
-		//			if (name != value)
-		//			{
-		//				name = value;
-		//			}
-		//		}
-		//	}
-
-		//	private string surname;
-
-		//	public string Surname
-		//	{
-		//		get { return surname; }
-		//		set 
-		//		{
-		//			if (surname != value)
-		//			{
-		//				surname = value;
-		//			}
-		//		}
-		//	}
-
-		//	private string contactNo;
-
-		//	public string ContactNo
-		//	{
-		//		get { return contactNo; }
-		//		set 
-		//		{
-		//			if (contactNo != value)
-		//			{
-		//				contactNo = value;
-		//			}
-		//		}
-		//	}
-
-		//	private string province;
-
-		//	public string Province
-		//	{
-		//		get { return province; }
-		//		set 
-		//		{
-		//			if (province != value)
-		//			{
-		//				province = value;
-		//			}
-		//		}
-		//	}
+		
 	}
 }

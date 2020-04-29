@@ -65,7 +65,9 @@ namespace ApiXml.Controller
 
             personCrudService.CreatePerson(persondata.ToDomain());
 
-            return Ok(GetPeople());
+            //return Created
+
+            return Created($"https://localhost:44313/Person/{persondata.Id}", GetPerson(persondata.Id));
 
         }
         [HttpPut("{Id}")]
@@ -78,7 +80,7 @@ namespace ApiXml.Controller
 
             personCrudService.UpdatePerson(Id, PersonData.ToDomain());
 
-            return Ok(GetPeople());
+            return Ok(GetPerson(Id));
 
         }
 

@@ -18,7 +18,22 @@ namespace Data
             return new person_data
             {
                 Id = person.Id,
+                Name = person.Name,
+                Surname = person.Surname,
+                Gender = person.Gender
             };
+        }
+
+        public Person Created()
+        {
+            return new Person
+            {
+                Id = this.Id,
+                Name = this.Name,
+                Surname = this.Surname,
+                Gender = this.Gender
+            };
+
         }
     }
 }

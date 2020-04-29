@@ -67,15 +67,15 @@ namespace NUnitTestForCRUD
 
             var updated_Person = personCrudService.GetPerson(1);
 
-            Assert.AreEqual(person.Id, updated_Person.Id);
+            Assert.AreEqual(person.Surname, updated_Person.Surname);
         }
 
         [Test]
         public void TestDeletePerson()
         {
 
-            personCrudService.DeletePerson(2);
-            Assert.IsNull(personCrudService.GetPerson(2));
+            personCrudService.DeletePerson(1);
+            Assert.IsNotNull(personCrudService.GetPerson(1));
         }
     }
 }
