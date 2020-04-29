@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPerson_data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <person_data>
+    <Id>1</Id>
+    <Name>Lucky</Name>
+    <Surname>Bua</Surname>
+    <Gender>Male</Gender>
+  </person_data>
+  <person_data>
+    <Id>3</Id>
+    <Name>Goisimang</Name>
+    <Surname>Buang</Surname>
+    <Gender>Female</Gender>
+  </person_data>
+  <person_data>
+    <Id>4</Id>
+    <Name>Ragnar</Name>
+    <Surname>Lothbrok</Surname>
+    <Gender>Male</Gender>
+  </person_data>
+  <person_data>
+    <Id>1</Id>
+  </person_data>
+  <person_data>
+    <Id>1</Id>
+  </person_data>
+</ArrayOfPerson_data>
