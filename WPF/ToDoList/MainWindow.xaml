@@ -1,0 +1,34 @@
+﻿<Window x:Class="ToDoList.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ToDoList"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    
+   
+    <Grid Background="Thistle" >
+        
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="8,14,0,0"
+
+                 Name="informationBox" VerticalAlignment="Top" Width="127" />
+
+        <Button Height="60" Margin="140,14,0,0" Name="AddButton" VerticalAlignment="Top"
+
+                HorizontalAlignment="Left" Width="100" Click="AddButton_Click" FontSize="30">
+
+            +
+        </Button >
+        <Button Height="23" Margin="140,80,0,0" Name="RemoveButton" VerticalAlignment="Top"
+                HorizontalAlignment="Left" Width="76" Click="RemoveButton_Click">
+            Remove
+        </Button>
+        
+        <ListBox Name="listBox1" VerticalAlignment="Bottom" HorizontalAlignment="Left" Margin="10,10,0,0"
+                 Height="300" Width="300" Background="LightGray">
+            
+        </ListBox>
+
+    </Grid>
+</Window>
